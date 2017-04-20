@@ -2,6 +2,10 @@ body {
     background-color: #dcd8d8 !important;
 }
 
+.page-header{
+    text-align: center !important;
+}
+
 .mainImages
 {
 
@@ -37,9 +41,9 @@ body {
 
 #map
 {
-    margin-top: 80px;
+    margin-top: 0px;
     max-width: 900px;
-    height: 500px;
+    height: 440px;
     margin-left: 20px;
 }
 
